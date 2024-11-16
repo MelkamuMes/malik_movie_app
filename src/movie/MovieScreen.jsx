@@ -40,7 +40,7 @@ function MovieScreen() {
                 </SafeAreaView>
                 <View>
                     <Image
-                        source={require('../components/images/Chainsaw-Man-Denji-Chainsaw-Man-TatsukiFujimoto-MAPPA-building-blood-covered-body-2172493-wallhere.com.jpg')}
+                        source={require('../components/images/Chainsaw-Man.jpg')}
                         style={{ width: width, height: height * 0.55 }}
                     />
                     <LinearGradient
